@@ -1,0 +1,17 @@
+.logoImage {
+  width: 85px;
+  height: 85px;
+  float: left;
+}
+
+.logoText {
+  color: black;
+  font-size: 30pt;
+  font-weight: bold;
+  float: left;
+  padding-top: 46px;
+}
+
+.logoBlock {
+  position: relative;
+}

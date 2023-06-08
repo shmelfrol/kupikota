@@ -1,0 +1,27 @@
+.sideBarMenu {
+  background-color: #060b26;
+  width: 250px;
+  height: 100vh;
+
+  position: fixed;
+  top: 0;
+  left: -100%;
+  transition: 850ms;
+}
+
+.sideBarMenuActive {
+  background-color: #060b26;
+  width: 250px;
+  height: 100vh;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  transition: 350ms;
+}
+
+.closeIcon {
+  font-size: 2rem;
+  float: right;
+  margin: 3px;
+}

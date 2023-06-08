@@ -1,0 +1,25 @@
+.sideBarItem {
+  padding: 15px;
+  margin: 15px;
+  text-decoration: none;
+  color: white;
+  align-items: center;
+  display: flex;
+  border-radius: 10px;
+}
+
+.sideBarItemIcon {
+  margin-right: 10px;
+  float: left;
+}
+
+.sideBarItemActive {
+  padding: 15px;
+  margin: 15px;
+  text-decoration: none;
+  color: white;
+  align-items: center;
+  display: flex;
+  border-radius: 10px;
+  background-color: #00c2ff;
+}

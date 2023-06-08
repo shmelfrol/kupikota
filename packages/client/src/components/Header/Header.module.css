@@ -1,0 +1,10 @@
+@import '../../assets/css/constants.css';
+
+.header {
+  background-color: var(--color-blue);
+  padding: 5px;
+  align-items: center;
+  display: flex;
+  color: var(--color-white);
+  justify-content: space-between;
+}
