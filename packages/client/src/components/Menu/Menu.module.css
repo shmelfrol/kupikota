@@ -7,9 +7,6 @@
 }
 
 .menuBlock {
-  align-items: center;
-  vertical-align: middle;
-  display: inline-block;
 }
 
 @media screen and (max-width: 900px) {

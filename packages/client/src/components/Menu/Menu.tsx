@@ -7,7 +7,7 @@ import styles from './Menu.module.css'
 
 export default function Menu({ sideBarHandler }) {
   return (
-    <div className={styles.menuBlock}>
+    <div>
       {Object.entries(ROUTES).map(item => (
         <MenuItem path={item[1].PATH} title={item[1].TITLE} key={item[1].ID} />
       ))}
